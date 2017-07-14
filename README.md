@@ -1,2 +1,36 @@
 # shorty-router
+
 Redirection app for shorty
+
+
+## Getting Started
+
+Setting the virtual environment
+
+`pip install virtualenv`
+
+Create the virtual environment inside the project directory
+
+`virtualenv env`
+
+Here env is our virtual environment , now change to project directory
+
+`cd shorty-router`
+
+Then install the requirements
+
+`pip install -r requirements.txt`
+
+Activate the virtual environment
+
+`source env/bin/activate`
+
+# Script for running the app
+
+`shorty_router.ini` has the config for running the application
+
+To run the app 
+
+`uwsgi --ini shorty_router.ini &`
+
+# :tada: done!

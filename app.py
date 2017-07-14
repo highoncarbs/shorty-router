@@ -26,10 +26,6 @@ db = config.db
 print db
 print host
 
-@app.route('/')
-def index():
-	return 'It works'
-
 # Rerouting funciton	
 
 @app.route('/<short_url>')
