@@ -33,4 +33,6 @@ To run the app
 
 `uwsgi --ini shorty_router.ini &`
 
+shorty-router runs on port 8080 , can be changed in shorty-router/app.py 
+
 # :tada: done!
