@@ -1,7 +1,6 @@
-# shorty-router
+# :checkered_flag: Shorty-Router
 
-Redirection app for shorty
-
+Redirection serice that can be publicaly hosted , while the dash (shorty)[https://github.com/PadamSethia/shorty]
 
 ## Getting Started
 
