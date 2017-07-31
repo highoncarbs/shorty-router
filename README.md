@@ -1,6 +1,6 @@
 # :checkered_flag: Shorty-Router
 
-Redirection serice that can be publicaly hosted , while the dash (shorty)[https://github.com/PadamSethia/shorty]
+Redirection serice that can be publicaly hosted , while the dash [shorty](https://github.com/PadamSethia/shorty)
 
 ## Getting Started
 
