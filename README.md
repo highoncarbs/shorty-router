@@ -1,6 +1,6 @@
 # :checkered_flag: Shorty-Router
 
-Redirection service that can be publicaly hosted , while the dash **[Shorty](https://github.com/PadamSethia/shorty)** is hosted on private server.
+Redirection service that can be publicly hosted , while the dash **[Shorty](https://github.com/PadamSethia/shorty)** is hosted on private server.
 
 ## Getting Started
 
